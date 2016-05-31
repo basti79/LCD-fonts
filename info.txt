@@ -1,0 +1,7 @@
+Jede Schriftart ist in 16 Varianten enthalten:
+- Assembler und C Header (.asm/.h)
+- Horizontal und Vertikal angeordnete Bits (horizontal/vertikal)
+- Gespiegelt und ungespiegelt (MSB/LSB)
+- Links bzw. oben ausgerichtet, rechts bzw. unten ausgerichtet (1/2). Bei Schriftarten die eine Größe von einem Vielfachen von 8 Pixel in der entprechenden Richtung haben, sind beide Versionen identisch.
+
+Schriftarten höher als 16 Pixel sind nur in Horizontaler Anordnung verfügbar
